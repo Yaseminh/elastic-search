@@ -1,0 +1,11 @@
+using resources
+1. https://www.codeburps.com/post/spring-data-elasticsearch
+2. https://javahelps.com/install-oracle-jdk-11-on-linux
+3. https://stackoverflow.com/questions/44213454/not-able-to-install-oracle-jdk-on-centos-machine-using-wget
+errors
+1. https://stackoverflow.com/questions/58145464/elasticsearchexception-failure-running-machine-learning-native-code
+2. --ip adresini dışarıya açmak için--
+  1. https://stackoverflow.com/questions/33696944/how-do-i-enable-remote-access-request-in-elasticsearch-2-0
+  2. https://discuss.elastic.co/t/eck-elasticsearch-pod-not-starting-on-aks-max-virtual-memory-areas-vm-max-map-count-65530-is-too-low-increase-to-at-least-262144/305788
+  3. https://stackoverflow.com/questions/59350069/elasticsearch-start-up-error-the-default-discovery-settings-are-unsuitable-for
+  4. https://stackoverflow.com/questions/60760647/elastic-search-health-check-in-spring-boot-actuator-returns-status-down-sometime
